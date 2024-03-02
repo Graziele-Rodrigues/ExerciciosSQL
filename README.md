@@ -1,5 +1,4 @@
-# ExerciciosSQL
-Conteúdo e exercícios módulo sobre SQL do curso CC50
+# Conteúdo e exercícios módulo sobre SQL do curso CC50
 
 ## leitura csv com python
 
